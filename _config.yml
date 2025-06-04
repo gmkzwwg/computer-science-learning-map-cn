@@ -1,13 +1,13 @@
 # 1. Site Settings
 title               : /home/deerrider/Documents/repos/_config.yml
-owner               : "DeerRIDER"
+owner               : "GMKZWWG"
 #url                 : "http://127.0.0.1:4000"
-baseurl            : "/cs-learning-map"
+baseurl            : "/computer-science-learning-map-cn"
 permalink           : /:title/
 description         : "About
 (Try to be) a Comprehensive Computer Science Learning Map."
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
+statement           : "Designed by GMKZWWG, All Rights Reserved"
 bgtext              : "01" # texts randomly displayed in background
 
 # 2. Collections
@@ -43,7 +43,7 @@ defaults:
 
 # 5. Social Media Accounts
 email               : "akiritsu@outlook.com" 
-github              : "akiritsu/cs-learning-map" 
+github              : "https://github.com/gmkzwwg/computer-science-learning-map-cn/" 
 
 # 6. Where things are
 source              : .
